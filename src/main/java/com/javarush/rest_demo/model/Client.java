@@ -1,4 +1,4 @@
-package com.javarush.rest_demo.rest_demo.model;
+package com.javarush.rest_demo.model;
 
 public class Client {
     private Integer id;

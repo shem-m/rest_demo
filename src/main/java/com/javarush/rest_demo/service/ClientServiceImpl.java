@@ -1,6 +1,6 @@
-package com.javarush.rest_demo.rest_demo.service;
+package com.javarush.rest_demo.service;
 
-import com.javarush.rest_demo.rest_demo.model.Client;
+import com.javarush.rest_demo.model.Client;
 
 import java.util.HashMap;
 import java.util.List;

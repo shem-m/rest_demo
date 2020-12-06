@@ -1,4 +1,4 @@
-package com.javarush.rest_demo.rest_demo;
+package com.javarush.rest_demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

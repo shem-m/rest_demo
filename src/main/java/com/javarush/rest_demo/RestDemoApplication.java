@@ -1,4 +1,4 @@
-package com.javarush.rest_demo.rest_demo;
+package com.javarush.rest_demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
